@@ -1,0 +1,85 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: JS Currency Converter\n"
+"POT-Creation-Date: 2017-05-01 15:19+0200\n"
+"PO-Revision-Date: 2017-05-01 15:19+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: js_currency_converter-init.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: js_currency_converter-admin-functions.php:112
+msgid "JS Currency Converter settings"
+msgstr ""
+
+#: js_currency_converter-admin-functions.php:122
+msgid "The original currency"
+msgstr ""
+
+#: js_currency_converter-admin-functions.php:132
+#, php-format
+msgid ""
+"Special subscription needed at <a href=\"%s\" target=\"currency_list\">%s</a>"
+msgstr ""
+
+#: js_currency_converter-admin-functions.php:137
+msgid ""
+"API-KEY for <a href=\"http://apilayer.net\" target=\"api_layer\">http://"
+"apilayer.net</a>"
+msgstr ""
+
+#: js_currency_converter-admin-functions.php:142
+msgid "CLASS of target element"
+msgstr ""
+
+#: js_currency_converter-admin-functions.php:147
+msgid "Currencies"
+msgstr ""
+
+#: js_currency_converter-admin-functions.php:151
+msgid "Every currency should be on a new line"
+msgstr ""
+
+#: js_currency_converter-admin-functions.php:152
+#, php-format
+msgid ""
+"Currency list can be found here <a href=\"%s\" target=\"currency_list\">%s</"
+"a>"
+msgstr ""
+
+#: js_currency_converter-admin-functions.php:157
+msgid "Exchange rates"
+msgstr ""
+
+#: js_currency_converter-admin-functions.php:202
+msgid "API(key) is not valid"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "JS Currency Converter"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adding like function to posts"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Dragonet"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.dragonet.nl/"
+msgstr ""

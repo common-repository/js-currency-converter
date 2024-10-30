@@ -1,0 +1,50 @@
+
+.jcc_currency_admin_exchange_holder {
+	float  : left;
+	width  : 30%;
+	margin : 0 2% 0 0;
+}
+
+.jcc_currency_admin_exchange_holder .jcc_exchange_rates {
+	width      : 100%;
+	min-height : 250px;
+}
+
+.jcc_currency_admin_exchange_holder .currency_holder {
+	width      : 100%;
+	min-height : 250px;
+	border     : solid 1px;
+	padding    : 1%;
+}
+
+.jcc_currency_admin_currency_rows_titles {
+	width : 100%;
+}
+
+.jcc_currency_admin_currency_rows_titles span {
+	width : 33%;
+	float : left;
+}
+
+.jcc_currency_admin_flag {
+	width : 30%;
+}
+
+.jcc_currency_admin_title,
+.jcc_currency_admin_decimal,
+.jcc_currency_admin_separator,
+.jcc_currency_admin_symbol {
+	width : 10%;
+}
+
+.js_currency_converter_select {
+	min-width : 150px;
+}
+
+.js_currency_converter_img-flag {
+	margin : -5px 5px -5px 0;
+}
+
+.js_currency_converter.no_target {
+	display : none;
+}
